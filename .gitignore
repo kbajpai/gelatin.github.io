@@ -41,3 +41,5 @@ semantic/dist
 public/libs
 .idea/
 gelatin.github.io.iml
+
+.idea/workspace.xml
