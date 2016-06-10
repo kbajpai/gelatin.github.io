@@ -39,7 +39,6 @@ jspm_packages
 #Semantic
 semantic/dist
 public/libs
-.idea/
+.idea
 gelatin.github.io.iml
-
 .idea/workspace.xml
