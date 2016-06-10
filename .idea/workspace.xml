@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f7d1b2c-2ea0-4aa8-be7e-8924a955acc4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/download-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/github-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/header-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/highlight-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sidebar-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/github-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/production.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/site.css" afterPath="$PROJECT_DIR$/semantic/dist/components/site.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/site.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/site.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/semantic.css" afterPath="$PROJECT_DIR$/semantic/dist/semantic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/semantic.min.css" afterPath="$PROJECT_DIR$/semantic/dist/semantic.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/theme.config" afterPath="$PROJECT_DIR$/semantic/src/theme.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/body-bg.jpg" afterPath="$PROJECT_DIR$/public/images/body-bg.jpg" />
     </list>
     <ignored path="gelatin.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -814,12 +793,12 @@
       <workItem from="1465540121871" duration="1468000" />
       <workItem from="1465541602737" duration="1998000" />
       <workItem from="1465543754884" duration="3296000" />
-      <workItem from="1465547190677" duration="2773000" />
+      <workItem from="1465547190677" duration="3356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9535000" />
+    <option name="totallyTimeSpent" value="10118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
