@@ -497,6 +497,10 @@ header h2 {
   max-width: 100%;
 }
 
+*, :after, :before {
+  box-sizing: content-box !important;
+}
+
 aside#sidebar {
   float: right;
   width: 200px;

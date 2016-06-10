@@ -18,4 +18,4 @@ var
 
 gulp.task('clean', 'Clean publish folder', clean);
 gulp.task('publish', 'Publish folder', publish);
-gulp.task('publish', 'Publish folder', release);
+gulp.task('release', 'Publish folder', release);

@@ -37,5 +37,7 @@ jspm_packages
 .node_repl_history
 
 #Semantic
-semantic/dist/
-public/libs/
+semantic/dist
+public/libs
+.idea/
+gelatin.github.io.iml
