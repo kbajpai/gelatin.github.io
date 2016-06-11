@@ -20,3 +20,9 @@
 --------------------*/
 
 @pageBackground      : #FAFAFA;
+
+/*-------------------
+  Highlighted Text
+--------------------*/
+
+@highlightBackground      : #FFCDD2;
