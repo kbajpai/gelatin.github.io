@@ -1,3 +1,22 @@
 /*******************************
      User Global Variables
 *******************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@headerFont        : 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+
+/*-------------------
+       Color
+--------------------*/
+
+@primaryColor   : #F44336;
+@secondaryColor : #D32F2F;
+
+/*-------------------
+        Page
+--------------------*/
+
+@pageBackground      : #FAFAFA;
