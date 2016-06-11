@@ -888,3 +888,12 @@ footer a:hover {
 #apple-playstore {
   width: 188px;
 }
+
+#attributions {
+  margin-top: 20px;
+  margin-left: 6px;
+}
+
+#googlePlayStore {
+  margin-top: 20px;
+}
