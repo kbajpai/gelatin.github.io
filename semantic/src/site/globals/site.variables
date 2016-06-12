@@ -25,4 +25,5 @@
   Highlighted Text
 --------------------*/
 
-@highlightBackground      : #FFC107;
+@highlightBackground    : #CCE2FF;
+@highlightColor         : rgba(0,0,0,.87);
