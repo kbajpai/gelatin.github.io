@@ -477,6 +477,11 @@ header h2 {
   letter-spacing: 0;
 }
 
+header ::selection {
+  background-color: #FFCDD2;
+  color: #212121;
+}
+
 .inner {
   position: relative;
   width: 940px;
@@ -524,7 +529,7 @@ a.button {
   width: 134px;
   height: 58px;
   padding-top: 22px;
-  padding-left: 92px;
+  padding-left: 77px;
   font-family: Roboto,'Helvetica Neue',Arial,Helvetica,sans-serif;
   font-size: 23px;
   line-height: 1.2;

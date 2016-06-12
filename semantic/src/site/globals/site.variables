@@ -25,4 +25,4 @@
   Highlighted Text
 --------------------*/
 
-@highlightBackground      : #FFCDD2;
+@highlightBackground      : #FFC107;
